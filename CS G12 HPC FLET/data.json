@@ -1,0 +1,48 @@
+{
+    "al": {
+        "password": "3",
+        "fname": "al",
+        "lname": "huwi",
+        "age": "18-25",
+        "gender": "Male",
+        "hobby": "Creative & Crafting",
+        "job": "Student",
+        "conflict": "Talk it out immediately",
+        "weekend": "Exploring the oudors",
+        "love_lang": "Gifts",
+        "location": "jiwf",
+        "notifications": []
+    },
+    "bl": {
+        "password": "3",
+        "fname": "bl",
+        "lname": "bnwhbhudnisjkijbvi",
+        "age": "18-25",
+        "gender": "Female",
+        "hobby": "Creative & Crafting",
+        "job": "Other",
+        "conflict": "Talk it out immediately",
+        "weekend": "Exploring the oudors",
+        "love_lang": "Gifts",
+        "location": "hugras",
+        "notifications": [
+            "al  rehfbbewgdvtfvas wants to meet up with you at your preferred address: hugras!"
+        ]
+    },
+    "Porter": {
+        "password": "1234",
+        "fname": "Porter",
+        "lname": "P",
+        "age": "51+",
+        "gender": "Male",
+        "hobby": "Intellectual & Learning",
+        "job": "Unemployed",
+        "conflict": "Talk it out immediately",
+        "weekend": "Learing new stuff",
+        "love_lang": "Gifts",
+        "location": "Bell High School",
+        "notifications": [
+            "bl bnwhbhudnisjkijbvi wants to meet up with you at your preferred address: Bell High School!"
+        ]
+    }
+}
